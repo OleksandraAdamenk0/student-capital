@@ -48,12 +48,16 @@ The program outputs a single line:
 ### Example
 
 Input:
+```
 5 2 500.5
 100 200 295 380 500
 200 250 250 300 500
+```
 
 Output:
+```
 capital at the end of the summer: 980.5
+```
 
 ## Program Logic
 
